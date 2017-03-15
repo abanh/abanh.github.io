@@ -1,0 +1,67 @@
+html {
+  font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: 'Baloo Bhaina', cursive; 
+  
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 20px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html {
+    background-color: #3df762;
+}
+body {
+  width: 610px;
+  margin: 0 auto;
+  background-color: #f9f9f9;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #3df762;
+  text-shadow: 3px 3px 1px black;
+}
+.im1 {
+   display: inline-block;
+   margin: 0 auto;
+}
+.im2{
+    display:inline-block;
+    margin: 0 auto;
+}
+.im3{
+    display:inline-block;
+    margin: 0 auto;
+}
+.im4 {
+   display: inline-block;
+   margin: 0 auto;
+}
+.im5{
+    display:inline-block;
+    margin: 0 auto;
+}
+.im6{
+    display:inline-block;
+    margin: 0 auto;
+}
+.im7 {
+   display: inline-block;
+   margin: 0 auto;
+}
+.im8{
+    display:inline-block;
+    margin: 0 auto;
+}
+.im9{
+    display:inline-block;
+    margin: 0 auto;
+}
